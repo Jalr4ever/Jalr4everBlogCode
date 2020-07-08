@@ -1,2 +1,3 @@
-# Jalr4everBlogCode
-存放我的博客的代码 demo
+# Jalr4everBlogStuff
+
+个人博客的工具与文件
